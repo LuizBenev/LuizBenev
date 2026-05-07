@@ -21,21 +21,25 @@ Estudante de **Ciência da Computação na UniFil** (1º Ano). Focado na interse
 
 ---
 
-### 📊 Desenvolvimento e Contato
+### 📊 Desenvolvimento
 <p align="center">
   <table align="center">
     <tr>
       <td align="center" style="border: none;">
-        <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LuizBenev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=4" />
+        <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LuizBenev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=5" />
       </td>
       <td align="center" style="border: none;">
         <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=LuizBenev&theme=tokyonight" />
       </td>
-      <td align="center" style="border: none; vertical-align: middle;">
-        <a href="https://www.linkedin.com/in/luiz-benevides-de-oliveira-1a3b5220a/">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-      </td>
     </tr>
   </table>
+</p>
+
+---
+
+### 📫 Como me encontrar
+<p align="center">
+  <a href="https://www.linkedin.com/in/luiz-benevides-de-oliveira-1a3b5220a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
