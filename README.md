@@ -1,5 +1,3 @@
-# Olá, eu sou o LuizBenev 👋
-
 <p align="center">
   <img src="./image_7.png" width="100%" alt="LuizBenev Banner" />
 </p>
