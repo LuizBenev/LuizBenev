@@ -10,6 +10,10 @@ Estudante de **Ciência da Computação na UniFil** (1º Ano). Focado na interse
 - ☕ **Java:** Desenvolvendo algoritmos e estruturas de dados no IntelliJ.
 - ⚡ **Hardware:** Explorando portas lógicas e arquitetura de processadores.
 
+- 🔭 Atualmente explorando os fundamentos do **Java**.
+- ⚙️ Estudando **Circuitos Lógicos** e **Portas Lógicas** (AND, OR, NOT...).
+- 🎯 Objetivo: Me tornar um desenvolvedor sólido e entender como o software conversa com o hardware.
+
 ---
 
 ### 🛠️ Tecnologias
