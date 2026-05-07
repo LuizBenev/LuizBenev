@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./image_7.png" width="100%" alt="LuizBenev Banner" />
+  <img src="./image_7.png" width="100%" alt="Banner LuizBenev" />
 </p>
 
 ---
@@ -23,11 +23,19 @@ Estudante de **Ciência da Computação na UniFil** (1º Ano). Focado na interse
 
 ### 📊 Desenvolvimento e Contato
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LuizBenev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=3" />
-  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LuizBenev&theme=tokyonight" />
-
-  <a href="https://www.linkedin.com/in/luiz-benevides-de-oliveira-1a3b5220a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <table align="center">
+    <tr>
+      <td align="center" style="border: none;">
+        <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LuizBenev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=4" />
+      </td>
+      <td align="center" style="border: none;">
+        <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=LuizBenev&theme=tokyonight" />
+      </td>
+      <td align="center" style="border: none; vertical-align: middle;">
+        <a href="https://www.linkedin.com/in/luiz-benevides-de-oliveira-1a3b5220a/">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
