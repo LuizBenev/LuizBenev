@@ -27,9 +27,12 @@ Atualmente estou no **1º ano (2º bimestre)** de **Ciência da Computação na 
 
 ### 📊 Estatísticas do GitHub
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterhstokiri-projects.vercel.app/api?username=LuizBenev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  
-  <img height="180em" src="https://github-readme-stats-git-masterhstokiri-projects.vercel.app/api/top-langs/?username=LuizBenev&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LuizBenev&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Contribuições-6-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Status-Estudante-green?style=for-the-badge&logo=java" />
 </p>
 
 <p align="center">
