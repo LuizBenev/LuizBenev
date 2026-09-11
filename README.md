@@ -45,7 +45,7 @@ Estudante de **Ciência da Computação na UniFil** (1º Ano). Focado na interse
 
 ### 📫 Como me encontrar
 <p align="center">
-  <a href="https://www.linkedin.com/in/luiz-benevides-de-oliveira-1a3b5220a/">
+  <a href="www.linkedin.com/in/luiz-benevento-a534233a9">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
