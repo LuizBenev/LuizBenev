@@ -7,11 +7,12 @@
 # 🎓 Sobre Mim
 Estudante de **Ciência da Computação na UniFil** (1º Ano). Focado na intersecção entre a *lógica* pura do hardware e o poder da *Programação*.
 
-- ☕ **Java:** Desenvolvendo algoritmos e estruturas de dados no IntelliJ.
+- ☕ **Java:** Desenvolvendo algoritmos e estruturas de dados POO.
+- 📶 **Python** Desenvolvendo algoritmos e estruturas de dados matemáticos.
 - ⚡ **Hardware:** Explorando portas lógicas e arquitetura de processadores.
 ## 
-- 🔭 Atualmente explorando os fundamentos do **Java**.
-- ⚙️ Estudando **Circuitos Lógicos** e **Portas Lógicas** (AND, OR, NOT...).
+- 🔭 Atualmente explorando os fundamentos do **Java** e **Python**.
+- ⚙️ Estudando **Circuitos Lógicos**, **Portas Lógicas** (AND, OR, NOT...) e **Álgebra Linear**.
 - 🎯 Objetivo: Me tornar um desenvolvedor sólido e entender como o software conversa com o hardware.
 
 ---
